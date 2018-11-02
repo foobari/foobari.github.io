@@ -1,0 +1,11 @@
+h1 {
+	font-family: "courier";
+	font-size: 10em;
+}
+
+.center{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
