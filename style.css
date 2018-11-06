@@ -5,6 +5,11 @@ h1 {
 	white-space: nowrap;
 }
 
+button {
+	margin: auto;
+	height: 4em;
+}
+
 .center{
     height: 50vh;
     display: flex;
