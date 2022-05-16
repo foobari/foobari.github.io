@@ -6,10 +6,10 @@ var myVar4 = setInterval(myTimer2, 2200);
 
 
 function myTimer1() {
-	$("h1")[0].textContent = "Three_Thumbs_O\u00dc";
+	$("h1")[0].textContent = "three_thumbs_o\u00fc";
 } 
 
 function myTimer2() {
-	$("h1")[0].textContent = "_Three_Thumbs_O\u00dc";
+	$("h1")[0].textContent = "_three_thumbs_o\u00fc";
 } 
 
