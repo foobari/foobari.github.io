@@ -1,6 +1,16 @@
+body {
+	background-color:black;
+}
 h1 {
 	font-family: "courier";
 	font-size: 4em;
+	font-weight: lighter;
+	white-space: nowrap;
+}
+
+h3 {
+	font-family: "courier";
+	font-size: 2em;
 	font-weight: lighter;
 	white-space: nowrap;
 }
@@ -11,8 +21,18 @@ button {
 }
 
 .center{
-    height: 50vh;
+    height: 20vh;
     display: flex;
     justify-content: center;
     align-items: center;
+	color:green;
 }
+
+.centers{
+	height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	color:green;
+}
+</table>
