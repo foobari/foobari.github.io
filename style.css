@@ -21,18 +21,17 @@ button {
 }
 
 .center{
-    height: 20vh;
+    height: 10vh;
     display: flex;
     justify-content: center;
     align-items: center;
 	color:darkgreen;
 }
 
-.centers{
-	height: 10vh;
+.center_spacing{
+	height: 20vh;
     display: flex;
     justify-content: center;
     align-items: center;
 	color:green;
 }
-</table>
