@@ -9,16 +9,12 @@ h1 {
 }
 
 h3 {
+	font-size: 2.5em;
 	font-family: "courier";
-	font-size: 2em;
 	font-weight: lighter;
 	white-space: nowrap;
 }
 
-button {
-	margin: auto;
-	height: 4em;
-}
 
 .center{
     height: 7vh;
@@ -29,9 +25,23 @@ button {
 }
 
 .center_spacing{
-	height: 20vh;
+	height: 15vh;
     display: flex;
     justify-content: center;
     align-items: center;
 	color:green;
 }
+
+.footer{
+	font-family: "courier";
+	font-size: 2em;
+	font-weight: lighter;
+	white-space: nowrap;
+	height: 3vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color:green;
+}
+	
+
