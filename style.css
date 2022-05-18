@@ -16,32 +16,33 @@ h3 {
 }
 
 
-.center{
-    height: 7vh;
+.center_top{
+	font-family: "courier";
+	height: 7vh;
     display: flex;
     justify-content: center;
     align-items: center;
 	color:green;
+	transform: translate(0%, 70%);
 }
 
-.center_spacing{
+.center_middle{
+	font-family: "courier";
 	height: 15vh;
     display: flex;
     justify-content: center;
     align-items: center;
 	color:green;
+	transform: translate(0%, 120%);
 }
 
-.footer{
+.center_bottom{
 	font-family: "courier";
-	font-size: 2em;
-	font-weight: lighter;
-	white-space: nowrap;
-	height: 3vh;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+	height: 2vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 	color:green;
-}
+	transform: translate(0%, 2000%);}
 	
 
