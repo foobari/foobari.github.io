@@ -10,6 +10,6 @@ function myTimer1() {
 } 
 
 function myTimer2() {
-	$("h1")[0].textContent = "_3thumb_it";
+	$("h1")[0].textContent = "thumb_it";
 } 
 
